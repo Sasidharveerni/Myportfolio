@@ -1,3 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css?family=Sacramento&display=swap");
+
+
+
+
+
+
+.font{
+  color:rgb(192, 192, 192);
+}
+.font1{
+  color:azure;
+}
+.image1{
+  background-image: url('./images/education.jpg');
+  background-repeat: no-repeat;
+  width: 600px; /* Adjust the width as needed */
+  height: 300px;
+
+  margin-left: 180px;
+}
+
+
+
+/* .bg-img{
+  background-image: url(images/bg-img.gif);
+} */
+
 .App {
   text-align: center;
 }

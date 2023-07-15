@@ -1,0 +1,56 @@
+
+h2.text{
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+}
+p.text{
+    font-family: 'Lucida Sans';
+    text-align: center;
+    color: #fff;
+    margin-left: 90px;
+    font-size: 1.25rem;
+}
+p.word {
+    width: 850px;
+    overflow-wrap: break-word;  
+    word-wrap: break-word; 
+    word-break: break-word;
+}
+.clg{
+    margin-left: 30px;
+    text-align: center;
+    color: #b1a9a9;
+}
+.edu{
+    background-image: url(images/education.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.curved-div {
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(149, 93, 93, 0.1);
+  }
+
+/* Project-css */
+
+.Parent {
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem;
+    margin-top: 50px;
+}
+
+.spacing {
+    margin-right: 2rem;
+ 
+}
+
+
+/* Profile-css */
+
+.profile{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    display: inline-block;
+}
