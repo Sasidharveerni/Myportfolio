@@ -15,6 +15,7 @@ import ResumePreview from './Resume';
 
 const Portfolio = () => {
   return (
+    
     <div className="bg-gray-100">
       <header className="bg-white shadow">
         <div className="container mx-auto px-4">
